@@ -671,8 +671,8 @@ header nav ul li a.btn {
 }
 
 header nav ul li a.btn:hover {
-    background: #fff;
-    color: #009be8;
+    background: #a23876;
+    color: #fff;
 }
 
 header .headertext {
